@@ -1,0 +1,5 @@
+2 b ba 1.4 aaaa
+3 d dac 5.0 dddd
+1 a a 4.3 aaaa
+4 z z 1.0 zzzz
+5 ene elena 14.3 aici
